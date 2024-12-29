@@ -1,10 +1,6 @@
-Here's a beautifully crafted GitHub portfolio profile that highlights your projects, skills, and experience in a visually appealing format:
-
----
-
 # 🌟 Vorxsaken's GitHub Portfolio 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Portfolio)
+![Profile Banner](https://giphy.com/gifs/black-rock-shooter-FeVg8ViEczcxG)
 
 **👤 Name:** Vorxsaken  
 **📍 Location:** Yogyakarta, Indonesia  
@@ -21,10 +17,10 @@ Hello! I'm Vorxsaken, a passionate fullstack developer dedicated to crafting eff
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** Next.js, Ionic
-- **Backend Development:** Flask, Node.js
-- **Database Management:** PostgreSQL
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** Next.js, React.js, Vue.js, Ionic
+- **Backend Development:** Flask, Node.js, Express.js,
+- **Database Management:** PostgreSQL, MySql
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma
 
