@@ -1,6 +1,6 @@
 # 🌟 Vorxsaken's GitHub Portfolio 🌟
 
-![Profile Banner](https://giphy.com/gifs/black-rock-shooter-FeVg8ViEczcxG)
+![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVmc3I2dXkycWd4eGJoY3h0MzJrZ3p2azFreHlrMngzcmw4cWdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
 
 **👤 Name:** Vorxsaken  
 **📍 Location:** Yogyakarta, Indonesia  
