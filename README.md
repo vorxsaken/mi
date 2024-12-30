@@ -1,8 +1,8 @@
-# 🌟 Welcome, HI 🌟
+# 🌟 Welcome, Hi 🌟
 
 ![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI3MDM2MXRydmZ5YmlsZWxjeDhlbTB1dTMycTYxMzk1bngyOHFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFYJI0RDXASxW/giphy.gif)
 
-**👤 Name:** Vorxsaken  
+**👤 Name:** fahmi  
 **📍 Location:** Yogyakarta, Indonesia  
 **🌐 Personal Website:** [alfahmi.vercel.app](https://alfahmi.vercel.app)  
 **🐙 GitHub Profile:** [github.com/vorxsaken](https://github.com/vorxsaken)  
@@ -11,7 +11,7 @@
 
 ## 🎯 About Me
 
-Hello! I'm Vorxsaken, a passionate fullstack developer dedicated to crafting efficient and innovative applications. My goal is to bridge the gap between functionality and user experience, ensuring that every project I undertake not only meets technical requirements but also delights users.
+Hello! I'm fahmi, a passionate fullstack developer dedicated to crafting efficient and innovative applications. My goal is to bridge the gap between functionality and user experience, ensuring that every project I undertake not only meets technical requirements but also delights users.
 
 ---
 
