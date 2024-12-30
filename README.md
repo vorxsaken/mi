@@ -21,7 +21,7 @@ Hello! I'm fahmi, a passionate fullstack developer dedicated to crafting efficie
 - **Frameworks:** Next.js, React.js, Vue.js, Ionic
 - **Backend Development:** Flask, Node.js, Express.js,
 - **Database Management:** PostgreSQL, MySql, MongoDB, Firestore
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Gitlab
 - **Design Tools:** Figma
 
 ## 💬 Get in Touch
